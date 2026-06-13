@@ -1,0 +1,21 @@
+# Data (large public datasets — download from official NGSIM/HighD sources)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Checkpoints / model weights
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
